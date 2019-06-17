@@ -21,12 +21,6 @@
             "cppStandard": "c++17",
             "intelliSenseMode": "${default}",
             "cStandard": "c11"
-        },
-        {
-            "browse": {
-                "limitSymbolsToIncludedHeaders": true,
-                "databaseFilename": ""
-            }
         }
     ],
     "version": 4
